@@ -193,7 +193,7 @@ header .container .links:hover ul {
 
 /* Strat Laning Section */
 .landing {
-    background-image: url(https://raw.githubusercontent.com/abdullah-muhammedd/Leon-Portfolio-Template/master/Images/craig-tidball-nLu8yaN7YY8-unsplash.jpg);
+    background-image: url(https://images.unsplash.com/photo-1609864234395-a1a4128d27ad?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=873&q=80);
     background-size: cover;
     height: calc(80vh - 64px);
     position: relative;
